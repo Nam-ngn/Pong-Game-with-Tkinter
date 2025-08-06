@@ -13,8 +13,8 @@ A Python implementation of the classic Pong game using Tkinter.
 ## Here are some screenshot of the game in action:
 
 <p align="left">
-  <img src="pong.png" alt="Pong Game" width="600"/>
-  <img src="endgame.png" alt="End Game" width="400"/>
+  <img src="pong.png" alt="Pong Game" width="500"/>
+  <img src="endgame.png" alt="End Game" width="500"/>
 </p>
 
 

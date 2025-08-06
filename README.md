@@ -10,7 +10,7 @@ A Python implementation of the classic Pong game using Tkinter.
 - Changeable court color and game mode
 - Simple GUI built with Tkinter
 
-## Here are some screenshot of the game in action:
+## Here are some screenshots of the game in action:
 
 <p align="left">
   <img src="pong.png" alt="Pong Game" width="500"/>
